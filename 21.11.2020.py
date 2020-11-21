@@ -5,5 +5,11 @@ b = int(input())
 c = int(input())
 print(f'{a}+{b}+{c}={a + b + c}')
 
-#B
+# B
+a = int(input('Введите три числа:\n'))
+b = int(input())
+c = int(input())
+
+print(f'{a}+{b}+{c}={a + b + c}')
+print(f'{a}*{b}*{c}={a * b * c}')
 
